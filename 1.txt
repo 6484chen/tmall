@@ -1,0 +1,6 @@
+1.下载redis，启动redis服务端
+2.下载selecticsearch搜索引擎，启动
+3.下载启动kibana客户端
+4.img照片：
+链接：https://pan.baidu.com/s/1R_K4PQRm0rtXk5ICUYhYSQ 
+提取码：zhpp 
